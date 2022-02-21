@@ -3476,6 +3476,7 @@ a:focus {
   font-size: 25px;
   font-size: 1.38889rem;
   font-weight: 600;
+    text-align: justify;
   margin: 0 0 0.8em;
 }
 
@@ -3496,8 +3497,8 @@ a:focus {
 @media screen and (min-width: 992px) {
   .getting-there-section .content > .col:first-child {
     padding-right: 75px;
-    text-align: right;
-    border-right: 1px solid #548a7f;
+    text-align: center;
+    /*border-right: 1px solid #548a7f;*/
   }
 }
 
@@ -3505,7 +3506,7 @@ a:focus {
   .getting-there-section .content > .col:first-child {
     padding-bottom: 35px;
     margin-bottom: 35px;
-    border-bottom: 1px solid #548a7f;
+    /*border-bottom: 1px solid #548a7f;*/
   }
 }
 
