@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="53343ab7-aac8-4987-9b3a-28d154f86576" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +19,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/gift" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/couple" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -30,6 +29,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hendra-retna\images\gallery" />
+      <recent name="C:\xampp\htdocs\hendra-retna\images\couple" />
       <recent name="C:\xampp\htdocs\hendra-retna\images\gift" />
       <recent name="C:\xampp\htdocs\hendra-retna\css\gift" />
       <recent name="C:\xampp\htdocs\hendra-retna" />
@@ -61,7 +62,9 @@
       <workItem from="1644928422042" duration="5633000" />
       <workItem from="1644934809338" duration="410000" />
       <workItem from="1644935301499" duration="55000" />
-      <workItem from="1645264489136" duration="16649000" />
+      <workItem from="1645264489136" duration="19272000" />
+      <workItem from="1645535155606" duration="84000" />
+      <workItem from="1645535268717" duration="1016000" />
     </task>
     <servers />
   </component>
@@ -73,7 +76,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
