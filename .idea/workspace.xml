@@ -2,7 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53343ab7-aac8-4987-9b3a-28d154f86576" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03572.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03603.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03613.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03627.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03650.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03671.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03694.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03701.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03725.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03728.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03730.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03761.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03767.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03776.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03787.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03810.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03820.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03835.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03842.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03845.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03846.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03855.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03856.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03858.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03859.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03862.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03866.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03867.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couple/D2V03874.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +60,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\hendra-retna\images\gallery" />
       <recent name="C:\xampp\htdocs\hendra-retna\images\couple" />
+      <recent name="C:\xampp\htdocs\hendra-retna\images\gallery" />
       <recent name="C:\xampp\htdocs\hendra-retna\images\gift" />
       <recent name="C:\xampp\htdocs\hendra-retna\css\gift" />
       <recent name="C:\xampp\htdocs\hendra-retna" />
@@ -64,7 +95,7 @@
       <workItem from="1644935301499" duration="55000" />
       <workItem from="1645264489136" duration="19272000" />
       <workItem from="1645535155606" duration="84000" />
-      <workItem from="1645535268717" duration="2263000" />
+      <workItem from="1645535268717" duration="6328000" />
     </task>
     <servers />
   </component>
