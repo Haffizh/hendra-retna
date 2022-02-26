@@ -3,17 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="53343ab7-aac8-4987-9b3a-28d154f86576" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/img-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gift/goPay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gift/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gift/img-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gift/img-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gift/logo-gopay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gift/logo-ovo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gift/logo-shopeepay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gift/qr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/couple/D2V03671.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/couple/D2V03859.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/couple/hendra.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/couple/hendra.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/couple/retna.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/couple/retna.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/music.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/music.mp3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +33,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hendra-retna" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\hendra-retna\music" />
       <recent name="C:\xampp\htdocs\hendra-retna\images\gift" />
@@ -75,7 +73,7 @@
       <workItem from="1645264489136" duration="19272000" />
       <workItem from="1645535155606" duration="84000" />
       <workItem from="1645535268717" duration="9764000" />
-      <workItem from="1645676461884" duration="5968000" />
+      <workItem from="1645676461884" duration="8907000" />
     </task>
     <servers />
   </component>
