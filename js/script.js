@@ -693,6 +693,11 @@
         WHEN DOCUMENT LOADING
     ==========================================================================*/
         $(window).on('load', function() {
+            var x = document.getElementById("myAudio");
+
+            function playAudio() {
+                x.play();
+            }
 
             preloader();
 
