@@ -19,7 +19,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/music" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -32,11 +32,11 @@
       <recent name="C:\xampp\htdocs\hendra-retna" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hendra-retna" />
       <recent name="C:\xampp\htdocs\hendra-retna\music" />
       <recent name="C:\xampp\htdocs\hendra-retna\images\gift" />
       <recent name="C:\xampp\htdocs\hendra-retna\images\couple" />
       <recent name="C:\xampp\htdocs\hendra-retna\images\gallery" />
-      <recent name="C:\xampp\htdocs\hendra-retna\css\gift" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -68,7 +68,7 @@
       <workItem from="1645264489136" duration="19272000" />
       <workItem from="1645535155606" duration="84000" />
       <workItem from="1645535268717" duration="9764000" />
-      <workItem from="1645676461884" duration="10489000" />
+      <workItem from="1645676461884" duration="11910000" />
     </task>
     <servers />
   </component>
